@@ -1,6 +1,6 @@
 <?php
 $host = "localhost";
-$base = "BlogArt";
+$base = "blogart20";
 $user = "root";
 $pass = "root";
 
